@@ -12,7 +12,7 @@
   </a>
 </p>
 
-#🙋‍♀️ About Me
+# 🙋‍♀️ About Me
 
 I'm a Data Science & AI enthusiast from Pune, India, actively looking for my first professional role in Data Science, ML, or AI.
 
@@ -28,22 +28,22 @@ I'm a Data Science & AI enthusiast from Pune, India, actively looking for my fir
 
 🎯 Seeking roles as Data Analyst / Data Scientist / ML Engineer / PowerBI Developer
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-*Languages & Querying*
+* Languages & Querying *
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-*Machine Learning & AI*
+* Machine Learning & AI *
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 
-*Data & Visualization*
+* Data & Visualization *
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -51,7 +51,7 @@ I'm a Data Science & AI enthusiast from Pune, India, actively looking for my fir
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-*Tools & Deployment*
+* Tools & Deployment *
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -59,7 +59,7 @@ I'm a Data Science & AI enthusiast from Pune, India, actively looking for my fir
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-#💼 Experience
+# 💼 Experience
 
 📌 Data Science Intern — Nasscom Foundation (Under BNP Paribas)
 3 Months | 2024
@@ -69,12 +69,12 @@ Gained hands-on experience applying data science skills in a professional enviro
 Collaborated with a team on data collection, cleaning, analysis, and presentation of findings
 
 
-#🎓 Education & Certifications
+# 🎓 Education & Certifications
 
 🏛️ Advanced Certification in Data Science & AI — Intellipaat × IIT Roorkee
 
 
-🤝 Let's Connect!
+# 🤝 Let's Connect!
 I'm actively looking for Data Science / Data Analyst / ML / AI roles. Open to full-time, part-time opportunities across India.
 📧 sheteankita99@gmail.com  |  💼 LinkedIn — Ankita Shete
 <p align="center"><i>"Consistency, curiosity, and the courage to keep learning — that's my edge."</i></p>

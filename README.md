@@ -16,26 +16,34 @@
 I'm a Data Science & AI enthusiast from Pune, India, actively looking for my first professional role in Data Science, ML, or AI.
 
 🎓 Completed Advanced Certification  in Data Science & AI from Intellipaat (in collaboration with IIT Roorkee)
+
 💼 Completed a 3-month internship at Nasscom Foundation under BNP Paribas — worked on real-world data problems
+
 🤖 Built a production-style GenAI RAG chatbot using LLMs, ChromaDB, FastAPI & Docker
+
 📊 Passionate about turning raw data into business decisions using ML, Power BI & SQL
+
 🌱 Currently deepening skills in LLM fine-tuning, NLP & AI agents
+
 🎯 Seeking roles as Data Analyst / Data Scientist / ML Engineer / PowerBI Developer
 
 #🛠️ Tech Stack
 
 *Languages & Querying*
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 *Machine Learning & AI*
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 
 *Data & Visualization*
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
@@ -43,6 +51,7 @@ I'm a Data Science & AI enthusiast from Pune, India, actively looking for my fir
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 *Tools & Deployment*
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -50,6 +59,7 @@ I'm a Data Science & AI enthusiast from Pune, India, actively looking for my fir
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 #💼 Experience
+
 📌 Data Science Intern — Nasscom Foundation (Under BNP Paribas)
 3 Months | 2024
 

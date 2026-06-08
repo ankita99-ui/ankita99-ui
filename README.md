@@ -13,6 +13,7 @@
 </p>
 
 #🙋‍♀️ About Me
+
 I'm a Data Science & AI enthusiast from Pune, India, actively looking for my first professional role in Data Science, ML, or AI.
 
 🎓 Completed Advanced Certification  in Data Science & AI from Intellipaat (in collaboration with IIT Roorkee)
